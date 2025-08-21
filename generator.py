@@ -14,7 +14,7 @@ import string
 import sys
 from datetime import datetime
 
-PASSWORD = "chess_is_my_love"
+PASSWORD = "ctf2025"
 
 WORD_BANK = [
     "rook","knight","bishop","queen","king","pawn","check","mate",
